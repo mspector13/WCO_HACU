@@ -27,9 +27,11 @@ Notice that the README is a markdown script! (.md)
 
 Here are some resources to start you off:
 
-[Theresa's googledoc](https://docs.google.com/document/d/1hUaPzIDbcdS27VGzl0bz2uQOLrU-Q7L5F_CMXgs6AOE/edit)
+[W3 Schools, super basic tutorials that are fun and easy to follow](https://www.w3schools.com/r/)
 
-[Swirl](https://swirlstats.com/students.html)
+[Theresa's googledoc with links to great resources](https://docs.google.com/document/d/1hUaPzIDbcdS27VGzl0bz2uQOLrU-Q7L5F_CMXgs6AOE/edit)
+
+[Swirl, in-house RStudio tutorials](https://swirlstats.com/students.html)
 
 The main things I think you should start to get comfortable with are:
 
