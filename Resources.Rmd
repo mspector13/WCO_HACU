@@ -1,0 +1,44 @@
+---
+title: "Resources"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown <- start here Mia
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r}
+#this is a designated R code chunk; note the r in the {} above. 
+#anything that starts with a "#" in an R code chunk is automatically commented out, so it won't run
+#this is a great way to annotate code in a Markdown script and in a regular R script
+```
+
+## Another header: Resources
+We'll use R scripts for writing and executing code
+Markdown scripts are great for sharing text AND for coding in other languages (e.g., Python, HTML, CSS etc)
+
+Notice that the README is a markdown script! (.md)
+
+Here are some resources to start you off:
+
+[Theresa's googledoc](https://docs.google.com/document/d/1hUaPzIDbcdS27VGzl0bz2uQOLrU-Q7L5F_CMXgs6AOE/edit)
+
+[Swirl](https://swirlstats.com/students.html)
+
+The main things I think you should start to get comfortable with are:
+
+Understanding R's nuances (i.e., we'll be using Tidyverse syntax, but you still need to learn some of the basics)
+
+Importing and "reading" data
+Naming and calling objects
+Render plots (using "grammar graphics" aka ggplot2)
+
+## Continued learning
+We can continue to flush out this document as we work through the basics of R
+Don't be afraid to search for help! *A lot* of my learning came from reading comments on Stack Overflow and other online forums
