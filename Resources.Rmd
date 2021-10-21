@@ -21,7 +21,8 @@ When you click the **Knit** button a document will be generated that includes bo
 
 ## Another header: Resources
 We'll use R scripts for writing and executing code
-Markdown scripts are great for sharing text AND for coding in other languages (e.g., Python, HTML, CSS etc)
+Markdown scripts are great for sharing text AND for coding in other languages (e.g., 
+Python, HTML, CSS etc)
 
 Notice that the README is a markdown script! (.md)
 
